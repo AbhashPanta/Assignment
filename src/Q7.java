@@ -2,7 +2,7 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 import java.math.*;
 
-public class Q7_CylinderVolume {
+public class Q7 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter radius of cylinder:");

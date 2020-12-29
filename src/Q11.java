@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q11_SwapTwoNumbers {
+public class Q11 {
     public static void main(String args[]){
 
         int a = 10;

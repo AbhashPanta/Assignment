@@ -3,7 +3,7 @@ import java.sql.SQLOutput;
 import java.util.Formatter;
 import java.util.Scanner;
 
-public class Q12_PrintInfo {
+public class Q12 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter your name: ");

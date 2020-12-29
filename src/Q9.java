@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q9_WeightConverter {
+public class Q9 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter weight in pounds(lbs):");

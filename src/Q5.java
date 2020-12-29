@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class Q5_Area {
+public class Q5 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter radius of circle:");
