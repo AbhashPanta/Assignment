@@ -197,7 +197,7 @@ public class TakeOut {
         }
 
         int trays = determineTrays(numPeople,feeds);
-        System.out.println("You need " + trays + " trays.");
+        System.out.println("You     need " + trays + " trays.");
         System.out.println("Feeds: " + feeds);
 
         double subtotal = getSubtotal(price, trays);
